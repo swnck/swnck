@@ -2,7 +2,7 @@
 
 # Hey, I'm **Nick!** 👋
 
-> 15 years old | PHP & Java Backend Developer | Germany
+> 16 y/o | PHP & Java Backend Developer | Germany
 
 ---
 
