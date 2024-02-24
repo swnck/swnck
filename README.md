@@ -3,10 +3,10 @@
 # Hey, I'm **Nick!** 👋
 
 > 16 y/o | Java & PHP Backend Developer | Germany
-> 
+---
+
 💬 Connect with me on Discord: syntaxpe
 📧 Reach me via email: nick.schweizer@protonmail.com
----
 
 ## 🚀 Skills and Development
 
