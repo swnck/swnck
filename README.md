@@ -43,8 +43,8 @@
 
 ## 📜 My Projects
 
-**Synclyn - [GitHub](https://github.com/Synclyn)**
-**R-Proxy - [GitHub](https://github.com/R-Proxy)**
+[![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=50)](https://www.github.com/Synclyn) 
+[![R-Proxy Logo](https://avatars.githubusercontent.com/u/161367685?v=4&s=50)](https://www.github.com/R-Proxy) 
 
 ## ⭐ Information
 
