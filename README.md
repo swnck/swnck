@@ -44,6 +44,7 @@
 ## 📜 My Projects
 
 **Synclyn - [GitHub](https://github.com/Synclyn)**
+**R-Proxy - [GitHub](https://github.com/R-Proxy)**
 
 ## ⭐ Information
 
