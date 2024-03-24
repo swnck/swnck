@@ -7,7 +7,7 @@
 
 💬 Connect with me on Discord: syntaxpe 
 
-📧 Reach me via email: nick.schweizer@protonmail.com
+📧 Reach me via email: personal@swnck.de
 
 ---
 
