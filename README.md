@@ -17,7 +17,7 @@
 
 ## 🚀 Skills and Development
 
-[![Skills](https://skillicons.dev/icons?i=php,java,html,nodejs,css,mysql,cpp,go)](https://github.com/swnck)
+[![Skills](https://skillicons.dev/icons?i=java,php,go,flutter,mysql,html,nodejs,css)](https://github.com/swnck)
 
 **Utilities**
 
