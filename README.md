@@ -13,7 +13,7 @@
 
 ## 🚀 Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,php,go,flutter,mysql,html,nodejs,css)](https://github.com/swnck)
+[![Skills](https://skillicons.dev/icons?i=java,php,go,mysql,html,nodejs,css)](https://github.com/swnck)
 
 ---
 
