@@ -4,9 +4,6 @@
 
 > 16 y/o | Java & PHP Backend Developer | Germany
 
-
-💬 Connect with me on Discord: syntaxpe 
-
 📧 Reach me via email: personal@swnck.de
 
 ---
