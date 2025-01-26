@@ -2,11 +2,8 @@
 
 # Hey, I'm **Nick!** 👋
 
-> 16 y/o | Java & PHP Backend Developer | Germany
+> 17 y/o | Java & PHP Backend Developer | Germany
 
-📧 Reach me via email: personal@swnck.de
-
----
 
 ## 🚀 Skills
 
@@ -16,9 +13,8 @@
 
 ## 📜 Projects
 
-[![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=50)](https://www.github.com/Synclyn) 
-[![XO-6 Logo](https://avatars.githubusercontent.com/u/165107360?v=4&s=50)](https://www.github.com/XO-6) 
-[![R-Proxy Logo](https://avatars.githubusercontent.com/u/161367685?v=4&s=50)](https://www.github.com/R-Proxy) 
+[![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=50)](https://www.github.com/Synclyn)
+[![ScentlyX Logo](https://avatars.githubusercontent.com/u/186477396?v=4&s=50)](https://www.github.com/ScentlyX)
 
 --- 
 
