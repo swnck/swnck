@@ -9,13 +9,6 @@
 
 [![Skills](https://skillicons.dev/icons?i=java,php,go,mysql,html,nodejs,css)](https://github.com/swnck)
 
----
-
-## 📜 Projects
-
-[![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=50)](https://www.github.com/Synclyn)
-[![ScentlyX Logo](https://avatars.githubusercontent.com/u/186477396?v=4&s=50)](https://www.github.com/ScentlyX)
-
 --- 
 
 ## 💼 Certificates
