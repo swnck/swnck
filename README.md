@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=php,swift,go,java,spring,azure,powershell,gradle,nextjs,html,css,nodejs)](https://github.com/swnck)
+[![Skills](https://skillicons.dev/icons?i=swift,go,java,php,spring,azure,powershell,gradle,nextjs,html,css,nodejs)](https://github.com/swnck)
 
 --- 
 
