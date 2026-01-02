@@ -1,5 +1,5 @@
 # **Nick Schweizer**
-17 y/o | Java, PHP & App Backend Developer | Germany
+18 y/o | Java, PHP & App Backend Developer | Germany
 
 
 ## Skills
