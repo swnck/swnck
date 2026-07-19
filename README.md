@@ -1,5 +1,5 @@
 # **Nick Schweizer**
-A Java, PHP, and app backend developer from Germany
+Backend developer specializing in Java, PHP and mobile applications
 
 [![Skills](https://skillicons.dev/icons?i=java,php,spring,azure,powershell,nextjs,html,typescript,swift)](https://github.com/swnck)
   <img 
